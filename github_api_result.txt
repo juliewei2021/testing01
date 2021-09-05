@@ -1,0 +1,38 @@
+1)command:
+curl https://api.github.com/users/juliewei2021
+
+2)results:
+{
+  "login": "juliewei2021",
+  "id": 90119602,
+  "node_id": "MDEyOk9yZ2FuaXphdGlvbjkwMTE5NjAy",
+  "avatar_url": "https://avatars.githubusercontent.com/u/90119602?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juliewei2021",
+  "html_url": "https://github.com/juliewei2021",
+  "followers_url": "https://api.github.com/users/juliewei2021/followers",
+  "following_url": "https://api.github.com/users/juliewei2021/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juliewei2021/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juliewei2021/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juliewei2021/subscriptions",
+  "organizations_url": "https://api.github.com/users/juliewei2021/orgs",
+  "repos_url": "https://api.github.com/users/juliewei2021/repos",
+  "events_url": "https://api.github.com/users/juliewei2021/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juliewei2021/received_events",
+  "type": "Organization",
+  "site_admin": false,
+  "name": null,
+  "company": null,
+  "blog": "",
+  "location": "United States of America",
+  "email": "juliewei2021@gmail.com",
+  "hireable": null,
+  "bio": null,
+  "twitter_username": null,
+  "public_repos": 1,
+  "public_gists": 0,
+  "followers": 0,
+  "following": 0,
+  "created_at": "2021-09-05T01:33:28Z",
+  "updated_at": "2021-09-05T01:38:21Z"
+}
